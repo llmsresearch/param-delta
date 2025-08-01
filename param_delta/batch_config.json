@@ -1,0 +1,19 @@
+{
+  "model_pairs": [
+    {
+      "base": "meta-llama/Llama-2-7b-hf",
+      "post": "meta-llama/Llama-2-7b-chat-hf",
+      "output": "deltas/llama2-7b-chat.safetensors"
+    },
+    {
+      "base": "mistralai/Mistral-7B-v0.1",
+      "post": "mistralai/Mistral-7B-Instruct-v0.1",
+      "output": "deltas/mistral-7b-instruct.safetensors"
+    },
+    {
+      "base": "microsoft/phi-2",
+      "post": "microsoft/phi-2-instruct",
+      "output": "deltas/phi2-instruct.safetensors"
+    }
+  ]
+}
