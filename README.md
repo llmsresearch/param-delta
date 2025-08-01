@@ -90,7 +90,7 @@ param_delta/
 ```bash
 # Clone the repository
 git clone https://github.com/llmsresearch/param-delta.git
-cd param_delta
+cd param-delta
 
 # Install dependencies
 pip install -r requirements.txt
