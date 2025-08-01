@@ -89,7 +89,7 @@ param_delta/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/llmsresearch/param-delta.git
 cd param_delta
 
 # Install dependencies
