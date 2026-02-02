@@ -7,6 +7,7 @@
 ![Azure](https://img.shields.io/badge/cloud-Azure-0078D4)
 
 ## About This Repository
+> This implementation is part of [LLMs Research](https://llmsresearch.substack.com), where I break down ~100 papers weekly and build the ones worth building.
 
 This repository provides a practical implementation of the **ParamΔ** methodology introduced in the research paper:
 
